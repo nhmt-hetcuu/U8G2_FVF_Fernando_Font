@@ -5,9 +5,6 @@ Font bitmap tự chế, hỗ trợ đầy đủ tiếng Việt có dấu, dùng 
 được với bất kỳ driver màn hình nào expose được hàm `drawPixel(x, y)` . Font được trích xuất tự động từ file TTF
 "FVF Fernando 08" bằng Python + Pillow .
 
-> ⚠️ **REPO NÀY LÀ PRIVATE, KHÔNG PUBLISH CÔNG KHAI.** Xem mục
-> [Bản quyền font nguồn](#bản-quyền-font-nguồn) bên dưới.
-
 ---
 
 ## Mục lục

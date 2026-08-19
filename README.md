@@ -34,22 +34,6 @@ Copyright © Font Viet 2004. All rights reserved.
 Designed and encoded by Nguyễn Hùng Trà - www.fontviet.com
 ```
 
-Đây là font **"All rights reserved"**, KHÔNG có giấy phép mã nguồn mở
-(không phải MIT/OFL/GPL/Public Domain). Toàn bộ dữ liệu bitmap trong
-`font_fvf_fernando*.h` là **tác phẩm phái sinh** trực tiếp từ hình dạng
-glyph có bản quyền của font này (chuyển từ đường nét vector sang điểm
-ảnh vẫn là phái sinh, không "thoát" bản quyền).
-
-**Vì vậy:**
-- Repo này (và cả file `.ttf` gốc) chỉ nên dùng **cá nhân/nội bộ**, để
-  **PRIVATE trên GitHub**, KHÔNG public/fork/chia sẻ ra ngoài.
-- KHÔNG đăng lại `font_fvf_fernando*.h` hay file `.ttf` lên nơi công khai
-  (kể cả kèm code khác) nếu chưa xin phép Font Viet / tác giả, hoặc chưa
-  đọc kỹ điều khoản sử dụng thực tế trên fontviet.com.
-- Nếu sau này muốn public hoá dự án: hoặc xin phép tác giả bằng văn bản,
-  hoặc thay bằng 1 font có giấy phép mở (SIL OFL, Apache, MIT, Public
-  Domain) rồi chạy lại `tools/gen_fvf_font.py` với font đó.
-
 ## Tính năng
 
 - **Tiếng Việt đầy đủ dấu** — font nguồn có sẵn toàn bộ glyph tiếng Việt

@@ -4,7 +4,7 @@ Font bitmap tự chế, hỗ trợ đầy đủ tiếng Việt có dấu, dùng 
 `u8g2.drawPixel()` — **không phụ thuộc font engine của U8g2**, nên chạy
 được với bất kỳ driver màn hình nào expose được hàm `drawPixel(x, y)`
 (không riêng gì ST75256). Font được trích xuất tự động từ file TTF
-"FVF Fernando 08" bằng Python + Pillow, viết cho dự án Fx880-fake.
+"FVF Fernando 08" bằng Python + Pillow .
 
 > ⚠️ **REPO NÀY LÀ PRIVATE, KHÔNG PUBLISH CÔNG KHAI.** Xem mục
 > [Bản quyền font nguồn](#bản-quyền-font-nguồn) bên dưới.

@@ -1,4 +1,4 @@
-# FVF Fernando Font cho U8g2 / ST75256
+# FVF Fernando Font cho U8g2
 
 Font bitmap tự chế, hỗ trợ đầy đủ tiếng Việt có dấu, dùng trực tiếp với
 `u8g2.drawPixel()` — **không phụ thuộc font engine của U8g2**, nên chạy
